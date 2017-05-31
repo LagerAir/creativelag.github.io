@@ -1,0 +1,49 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://creativelag.github.io" resolutions="1x" timestamp="1496235814275">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="work.css" crc="4015222522" ref="work"/>
+    <file name="index.css" crc="457096782" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work"/>
+    <file name="museutils.js" crc="4232573551" ref="index:work"/>
+    <file name="whatinput.js" crc="86476730" ref="index:work"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:work"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:work"/>
+    <file name="require.js" crc="4234670167" ref="index:work"/>
+    <file name="webpro.js" crc="3770351119" ref="work"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="work"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="work"/>
+    <file name="touchswipe.js" crc="3912873526" ref="work"/>
+  </folder>
+  <folder name="images">
+    <file name="logo1.jpg" crc="4038904387" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:work"/>
+    <file name="u208.png" crc="165907739" ref="index"/>
+    <file name="u208-r.png" crc="4244654270" ref="index"/>
+    <file name="1.png" crc="53241501" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2.png" crc="4136482736" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="3.png" crc="4060667886" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="4.png" crc="3863108513" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="5.png" crc="3759152007" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4195408710" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="work"/>
+  </folder>
+  <file name="index.html" crc="3882658455" seo="true" mt="1496235753418" redirect="true"/>
+  <file name="work.html" crc="401977764" seo="true" mt="1496235346173" redirect="true"/>
+</manifest>
